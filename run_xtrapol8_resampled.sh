@@ -5,13 +5,13 @@
 ### (C) 2023 Adams Vallejos                                  ##
 ###############################################################
 
-BASEDIR="/volume_b/adams/dataProcessing/Resampling/bR2016"
+BASEDIR="/PATH/TO/resampling"
 METHOD='B'
 
 LIGHT="${@: -1}"
 DARK="dark"
 
-INDIR="$BASEDIR/Data/output/HOHref_polder/${LIGHT}/{METHOD}"
+INDIR="$BASEDIR/output/${LIGHT}/{METHOD}"
 
 
 X8(){
