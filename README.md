@@ -1,5 +1,6 @@
 
 # Resampling of X-ray serial crystallography data
+[![DOI](https://zenodo.org/badge/809989638.svg)](https://doi.org/10.5281/zenodo.14921798)
 
 This repository contains tools for the resampling of diffraction patterns from 
 CrystFEL streams to analyse coordinate errors and Fourier electron density maps 
